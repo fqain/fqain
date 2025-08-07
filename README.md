@@ -135,6 +135,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FyazIkram&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=FQAIN&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </p>
 
