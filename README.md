@@ -15,10 +15,10 @@ I'm a diligent and sincere developer always eager to learn new technologies and 
 ### 🛠️ Languages & Tools  
 
 <p align="left">
+  <!-- Existing tools -->
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/c/c.png" alt="C" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" />
@@ -33,7 +33,19 @@ I'm a diligent and sincere developer always eager to learn new technologies and 
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" />
+
+  <!-- CYBERSECURITY / NETWORK TOOLS -->
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Splunk_logo.svg" alt="Splunk" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/SolarWinds_logo.svg" alt="SolarWinds" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Dynatrace_logo.svg" alt="Dynatrace" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Palo_Alto_Networks_logo.svg" alt="Palo Alto Networks" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Wireshark_icon.svg" alt="Wireshark" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nmap-logo.svg" alt="Nmap" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Metasploit-logo.png" alt="Metasploit" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/VMware_logo.svg" alt="VMware" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Elastic_Stack_logo.png" alt="Elastic Stack" />
 </p>
+
 <br /><br />
 <br />
 <br />
