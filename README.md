@@ -59,9 +59,7 @@ I'm a diligent and sincere developer always eager to learn new technologies and 
 
 <br /><br />
 <br />
-<br />
-<br />
-<br />
+
 
 ---
 
