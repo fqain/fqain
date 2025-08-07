@@ -8,8 +8,13 @@ I'm a diligent and sincere developer always eager to learn new technologies and 
 
 <br /><br />
 
-```python
-#!/usr/bin/python
+<!-- Typing Animation Block -->
+<div style="background-color:#0d1117; color:#c9d1d9; font-family:monospace; padding:1em; border-radius:10px; max-width:800px; overflow:auto;">
+  <pre id="typing-animation" style="white-space:pre-wrap; word-wrap:break-word;"><code></code></pre>
+</div>
+
+<script>
+  const code = `#!/usr/bin/python
 # -*- coding: utf-8 -*-
 
 
@@ -25,8 +30,21 @@ class SoftwareEngineerAndCybersecurityDataAnalyst:
 
 
 me = SoftwareEngineerAndCybersecurityDataAnalyst()
-me.say_hi()
-```
+me.say_hi()`;
+
+  const pre = document.getElementById("typing-animation").querySelector("code");
+  let i = 0;
+
+  function typeCode() {
+    if (i < code.length) {
+      pre.textContent += code.charAt(i);
+      i++;
+      setTimeout(typeCode, 15); // typing speed
+    }
+  }
+
+  typeCode();
+</script>
 
 <br />
 
