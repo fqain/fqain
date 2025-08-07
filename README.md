@@ -10,7 +10,7 @@ I'm a diligent and sincere developer always eager to learn new technologies and 
 
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="350" />
 
 ### 🛠️ Languages & Tools  
 
