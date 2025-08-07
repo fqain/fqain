@@ -87,11 +87,11 @@ Thanks for dropping by — feel free to explore my repositories or connect with 
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=FQAIN&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Fyaz's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rida05432&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Fyaz's GitHub Stats" height="160"/>
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FQAIN&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rida05432&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" height="160"/>
 </p>
 
 ---
@@ -99,7 +99,7 @@ Thanks for dropping by — feel free to explore my repositories or connect with 
 ### 🔥 GitHub Streak
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=FQAIN&theme=algolia&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=rida05432&theme=algolia&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -107,7 +107,7 @@ Thanks for dropping by — feel free to explore my repositories or connect with 
 ### 🏆 GitHub Achievements
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=FQAIN&theme=algolia&no-frame=true&margin-w=15&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rida05432&theme=algolia&no-frame=true&margin-w=15&column=7" />
 </p>
 
 ---
@@ -136,7 +136,7 @@ Thanks for dropping by — feel free to explore my repositories or connect with 
 
 <!-- Visitor Count -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=FQAIN&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rida05432&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
