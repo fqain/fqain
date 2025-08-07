@@ -54,9 +54,10 @@ me.say_hi()
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" />
 </p>
-<br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
+
 ---
-<br /><br /><br /><br />
+
 ### ☕ Support Me  
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈  
