@@ -16,23 +16,23 @@ I'm a diligent and sincere developer always eager to learn new technologies and 
 
 <p align="left">
   <!-- Programming/Dev stack (unchanged) -->
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" alt="Android" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" alt="Unity" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png" alt="R" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" />
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" />
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" />
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" />
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" />
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#" />
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" />
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" />
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" />
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase" />
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" />
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" />
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" alt="Android" />
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP" />
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" alt="Unity" />
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png" alt="R" />
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" />
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" />
 
   <!-- Cybersecurity / Network Tools -->
   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/bb39c316-ac49-4b25-b864-050a3d7fb009" />
