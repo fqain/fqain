@@ -90,51 +90,45 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FQAIN&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Fyaz's Github Stats" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FQAIN&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150"/>
-</p>
-
----
-
-### 🔍 Top Repositories
-
-<p align="left">
-  <a href="https://github.com/FQAIN/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FQAIN&repo=GiddyGoat.CodeIgniter&theme=dark" height="130"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/FQAIN/FQAIN.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FQAIN&repo=SOAM-Sullimar-Academy-of-Music-Enigma-Crackers&theme=dark" height="130"/>
-  </a>
-</p>
-
-
 <!-- Visitor Count -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=FyazIkram&label=Profile%20Views&color=0e75b6&style=flat" alt="FyazIkram" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=FQAIN&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<!-- GitHub Trophy -->
+<!-- GitHub Stats + Top Languages -->
+<h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FQAIN&theme=algolia&margin-w=15&no-frame=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FQAIN&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Fyaz's Github Stats" height="160"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FQAIN&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" height="160"/>
 </p>
 
-<!-- GitHub Stats -->
+<!-- GitHub Streak -->
+<h3 align="center">🔥 GitHub Streak</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FQAIN&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=FQAIN&theme=algolia&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<!-- GitHub Trophies -->
+<h3 align="center">🏆 GitHub Achievements</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FQAIN&theme=algolia&no-frame=true&row=1&margin-w=15" />
 </p>
 
 <!-- Top Skills -->
+<h3 align="center">🛠️ Top Skills & Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp,linux,git,aws,docker,nmap,splunk" />
 </p>
 
-<!-- GitHub Streak -->
+<!-- Pinned Repositories -->
+<h3 align="center">🔍 Featured Repositories</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FQAIN&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/FQAIN/GiddyGoat.CodeIgniter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FQAIN&repo=GiddyGoat.CodeIgniter&theme=algolia&hide_border=true" height="130"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/FQAIN/SOAM-Sullimar-Academy-of-Music-Enigma-Crackers">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FQAIN&repo=SOAM-Sullimar-Academy-of-Music-Enigma-Crackers&theme=algolia&hide_border=true" height="130"/>
+  </a>
 </p>
-
