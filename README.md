@@ -24,6 +24,7 @@ I’m a curious and motivated technologist, always exploring the latest innovati
 
 Thanks for dropping by — feel free to explore my repositories or connect with me.
 
+---
 
 <br /><br />
 
