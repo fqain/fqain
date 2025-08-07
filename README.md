@@ -15,36 +15,37 @@ I'm a diligent and sincere developer always eager to learn new technologies and 
 ### 🛠️ Languages & Tools  
 
 <p align="left">
-  <!-- Existing tools -->
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/c/c.png" alt="C" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="Unity" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" />
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" />
+  <!-- Programming/Dev stack (unchanged) -->
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" alt="Android" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" alt="Unity" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png" alt="R" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" />
 
-  <!-- CYBERSECURITY / NETWORK TOOLS -->
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Splunk_logo.svg" alt="Splunk" />
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/SolarWinds_logo.svg" alt="SolarWinds" />
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Dynatrace_logo.svg" alt="Dynatrace" />
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Palo_Alto_Networks_logo.svg" alt="Palo Alto Networks" />
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Wireshark_icon.svg" alt="Wireshark" />
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nmap-logo.svg" alt="Nmap" />
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Metasploit-logo.png" alt="Metasploit" />
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/VMware_logo.svg" alt="VMware" />
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Elastic_Stack_logo.png" alt="Elastic Stack" />
+  <!-- Cybersecurity / Network Tools -->
+  <img height="40" src="https://raw.githubusercontent.com/securebinary/icons/main/splunk.png" alt="Splunk" />
+  <img height="40" src="https://raw.githubusercontent.com/securebinary/icons/main/solarwinds.png" alt="SolarWinds" />
+  <img height="40" src="https://raw.githubusercontent.com/securebinary/icons/main/dynatrace.png" alt="Dynatrace" />
+  <img height="40" src="https://raw.githubusercontent.com/securebinary/icons/main/paloalto.png" alt="Palo Alto Networks" />
+  <img height="40" src="https://raw.githubusercontent.com/securebinary/icons/main/wireshark.png" alt="Wireshark" />
+  <img height="40" src="https://raw.githubusercontent.com/securebinary/icons/main/nmap.png" alt="Nmap" />
+  <img height="40" src="https://raw.githubusercontent.com/securebinary/icons/main/metasploit.png" alt="Metasploit" />
+  <img height="40" src="https://raw.githubusercontent.com/securebinary/icons/main/vmware.png" alt="VMware" />
+  <img height="40" src="https://raw.githubusercontent.com/securebinary/icons/main/elastic.png" alt="Elastic Stack" />
 </p>
+
 
 <br /><br />
 <br />
