@@ -120,7 +120,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <!-- GitHub Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FyazIkram&theme=algolia&margin-w=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FQAIN&theme=algolia&margin-w=15&no-frame=true" />
 </p>
 
 <!-- GitHub Stats -->
