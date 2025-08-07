@@ -78,22 +78,9 @@ Thanks for dropping by — feel free to explore my repositories or connect with 
 
 <br /><br />
 
----
 
-### ☕ Support Me  
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈  
-<a href="https://www.buymeacoffee.com/fyazikram8Y" target="_blank">
-<br />
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
-</a>
 
----
-
-<!-- Visitor Count -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=FQAIN&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 ---
 
@@ -146,3 +133,19 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FQAIN&repo=SOAM-Sullimar-Academy-of-Music-Enigma-Crackers&theme=algolia&hide_border=true" height="130"/>
   </a>
 </p>
+
+<!-- Visitor Count -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=FQAIN&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+---
+
+### ☕ Support Me  
+
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈  
+<a href="https://www.buymeacoffee.com/fyazikram8Y" target="_blank">
+<br />
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
+</a>
+
+---
