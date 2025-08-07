@@ -125,7 +125,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FyazIkram&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FQAIN&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
 </p>
 
 <!-- Top Skills -->
