@@ -49,7 +49,7 @@ I'm a diligent and sincere developer always eager to learn new technologies and 
   <img height="40" src="https://cdn-public.softwarereviews.com/production/favicons/offerings/7899/original/channels4_profile-removebg-preview.png" alt="" />
   <img height="40" src="https://cdn-public.softwarereviews.com/production/favicons/offerings/9448/original/256x256bb__40_-removebg-preview.png" alt="" />
   <img height="40" src="https://cdn11.bigcommerce.com/s-vf6hqg41u5/images/stencil/1280x1280/products/1355152/2138733/RSA_Security-Logo.wine__05397.1728317407.png?c=2" alt="" />
-  <img height="40" src="https://www.netpoleons.com/uploads/1/0/7/8/107892225/logo-website-24_orig.png" alt="" />
+  <img height="40" src="https://avatars.slack-edge.com/2023-01-30/4714057317990_dc6950efe678de64e005_512.jpg" alt="" />
   <img height="40" src="" alt="" />
   <img height="40" src="" alt="" />
   <img height="40" src="" alt="" />
