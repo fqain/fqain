@@ -38,11 +38,11 @@ I'm a diligent and sincere developer always eager to learn new technologies and 
   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/bb39c316-ac49-4b25-b864-050a3d7fb009" />
   <img height="40" src="https://images.icon-icons.com/2699/PNG/512/solarwinds_logo_icon_169738.png" alt="SolarWinds" />
   <img height="40" src="https://companieslogo.com/img/orig/PANW-4618d203.png?t=1720244493" alt="Palo Alto Networks" />
-  <img height="40" src="https://raw.githubusercontent.com/securebinary/icons/main/wireshark.png" alt="Wireshark" />
-  <img height="40" src="https://raw.githubusercontent.com/securebinary/icons/main/nmap.png" alt="Nmap" />
-  <img height="40" src="https://raw.githubusercontent.com/securebinary/icons/main/metasploit.png" alt="Metasploit" />
-  <img height="40" src="https://raw.githubusercontent.com/securebinary/icons/main/vmware.png" alt="VMware" />
-  <img height="40" src="https://raw.githubusercontent.com/securebinary/icons/main/elastic.png" alt="Elastic Stack" />
+  <img height="40" src="https://e1.pngegg.com/pngimages/342/752/png-clipart-macos-app-icons-wireshark.png" alt="Wireshark" />
+  <img height="40" src="https://www.myqnap.org/wp-content/uploads/nmap-logo.png" alt="Nmap" />
+  <img height="40" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit" />
+  <img height="40" src="https://e7.pngegg.com/pngimages/23/668/png-clipart-vm-logo-text-brand-logo-vmware-text-logo-thumbnail.png" alt="VMware" />
+  <img height="40" src="" alt="" />
 </p>
 
 
