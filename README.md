@@ -28,8 +28,6 @@ Thanks for dropping by — feel free to explore my repositories or connect with 
 
 <br />
 
-<br />
-
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="350" />
 
 ### 🛠️ Languages & Tools  
