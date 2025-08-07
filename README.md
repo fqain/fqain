@@ -1,7 +1,7 @@
-### You've Made it!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=%F0%9F%91%8B+Welcome+to+my+Github+Page!;My+Name+is+Fyaz+Ikram+;I+love+to+Code+%3C%2F%3E+....;Develop+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+......;Teach+%F0%9F%93%9D+........;And+Inspire+new+ideas+%F0%9F%92%A1;I'm+very+passionate+about%3A;Cybersecurity+%E2%9A%A0%EF%B8%8E;DevSecOPS+%F0%9F%9B%A0%EF%B8%8F;Automation+%F0%9F%9A%80;Aviation+%E2%9C%88%EF%B8%8F" alt="Typing SVG" /></a>
-
+### You've Made it!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <br />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=Welcome+to+my+Github+Page!;My+Name+is+Fyaz+Ikram+;I+love+to+Code+%3C%2F%3E+....;Develop+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+......;Teach+%F0%9F%93%9D+........;And+Inspire+new+ideas+%F0%9F%92%A1;I'm+very+passionate+about%3A;Cybersecurity+%E2%9A%A0%EF%B8%8E;DevSecOPS+%F0%9F%9B%A0%EF%B8%8F;Automation+%F0%9F%9A%80;Aviation+%E2%9C%88%EF%B8%8F" alt="Typing SVG" /></a>
 
 Hi, I'm [Fyaz Qadir Ahmed Ikram](https://fqain.github.io). It's a pleasure meeting you — welcome to my GitHub page!  
 I'm a recent software graduate from TUS in *Internet Systems Development*, with a strong foundation in cybersecurity, data analytics, and software development.  
