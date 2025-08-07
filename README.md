@@ -42,6 +42,17 @@ I'm a diligent and sincere developer always eager to learn new technologies and 
   <img height="40" src="https://www.myqnap.org/wp-content/uploads/nmap-logo.png" alt="Nmap" />
   <img height="40" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit" />
   <img height="40" src="https://e7.pngegg.com/pngimages/23/668/png-clipart-vm-logo-text-brand-logo-vmware-text-logo-thumbnail.png" alt="VMware" />
+  <img height="40" src="https://www.devprojournal.com/wp-content/uploads/2021/10/dynatrace-logo.png" alt="" />
+  <img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIGLJUF2mKapkUggbszRihDaBg1b8bMphOjg&s" alt="" />
+  <img height="40" src="https://cdn3.iconfinder.com/data/icons/database-29/100/database_data_storage_db_file-01-512.png" alt="" />
+  <img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" alt="" />
+  <img height="40" src="https://cdn-public.softwarereviews.com/production/favicons/offerings/7899/original/channels4_profile-removebg-preview.png" alt="" />
+  <img height="40" src="https://cdn-public.softwarereviews.com/production/favicons/offerings/9448/original/256x256bb__40_-removebg-preview.png" alt="" />
+  <img height="40" src="" alt="" />
+  <img height="40" src="" alt="" />
+  <img height="40" src="" alt="" />
+  <img height="40" src="" alt="" />
+  <img height="40" src="" alt="" />
   <img height="40" src="" alt="" />
 </p>
 
