@@ -52,8 +52,8 @@ I'm a diligent and sincere developer always eager to learn new technologies and 
   <img height="50" src="https://avatars.slack-edge.com/2023-01-30/4714057317990_dc6950efe678de64e005_512.jpg" alt="" />
   <img height="40" src="https://wazuh.com/uploads/2016/05/ossec-post-icon.png" alt="" />
   <img height="40" src="https://www.automat-it.com/wp-content/uploads/2024/03/Algosec_cs.png" alt="" />
-  <img height="40" src="" alt="" />
-  <img height="40" src="" alt="" />
+  <img height="40" src="https://thesecurityonion.co.uk/wp-content/uploads/2025/07/TSOMainLogo-Copy.jpg" alt="" />
+  <img height="40" src="https://logos-world.net/wp-content/uploads/2021/06/Okta-Logo-2010.png" alt="" />
 </p>
 
 
