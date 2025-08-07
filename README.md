@@ -100,11 +100,11 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=FQAIN&show_icons=true&include_all_commits=true&theme=black&hide_border=true" alt="Fyaz's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FQAIN&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Fyaz's GitHub Stats" height="160"/>
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FQAIN&layout=compact&theme=black&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FQAIN&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" height="160"/>
 </p>
 
 ---
@@ -112,7 +112,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ### 🔥 GitHub Streak
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=FQAIN&theme=black&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=FQAIN&theme=algolia&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -120,7 +120,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ### 🏆 GitHub Achievements
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=FQAIN&theme=black&no-frame=true&margin-w=15&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FQAIN&theme=algolia&no-frame=true&margin-w=15&column=7" />
 </p>
 
 ---
@@ -137,12 +137,12 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p>
   <a href="https://github.com/FQAIN/GiddyGoat.CodeIgniter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FQAIN&repo=GiddyGoat.CodeIgniter&theme=black&hide_border=true" height="130"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FQAIN&repo=GiddyGoat.CodeIgniter&theme=algolia&hide_border=true" height="130"/>
   </a>
 </p>
 
 <p>
   <a href="https://github.com/FQAIN/SOAM-Sullimar-Academy-of-Music-Enigma-Crackers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FQAIN&repo=SOAM-Sullimar-Academy-of-Music-Enigma-Crackers&theme=black&hide_border=true" height="130"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FQAIN&repo=SOAM-Sullimar-Academy-of-Music-Enigma-Crackers&theme=algolia&hide_border=true" height="130"/>
   </a>
 </p>
