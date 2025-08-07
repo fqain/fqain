@@ -1,6 +1,5 @@
 ### You've Made it!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 <br />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=Welcome+to+my+Github+Page!;My+Name+is+Fyaz+Ikram+;I+love+to+Code+%3C%2F%3E+....;Develop+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+......;Teach+%F0%9F%93%9D+........;And+Inspire+new+ideas+%F0%9F%92%A1;I'm+very+passionate+about%3A;Cybersecurity+%E2%9A%A0%EF%B8%8E;DevSecOPS+%F0%9F%9B%A0%EF%B8%8F;Automation+%F0%9F%9A%80;Aviation+%E2%9C%88%EF%B8%8F" alt="Typing SVG" /></a>
 
