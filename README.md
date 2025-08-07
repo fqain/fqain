@@ -96,5 +96,5 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 </a>
 
 <a href="https://github.com/FQAIN/FQAIN.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FQAIN&repo=SOAM-Sullimar-Academy-of-Music-Enigma-Crackers&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FQAIN&repo=SOAM-Sullimar-Academy-of-Music-Enigma-Crackers&theme=dark"  />
 </a>
