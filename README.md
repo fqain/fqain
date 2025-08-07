@@ -35,7 +35,7 @@ I'm a diligent and sincere developer always eager to learn new technologies and 
   <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" />
 
   <!-- Cybersecurity / Network Tools -->
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/bb39c316-ac49-4b25-b864-050a3d7fb009" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/bb39c316-ac49-4b25-b864-050a3d7fb009" />
   <img height="40" src="https://raw.githubusercontent.com/securebinary/icons/main/solarwinds.png" alt="SolarWinds" />
   <img height="40" src="https://raw.githubusercontent.com/securebinary/icons/main/dynatrace.png" alt="Dynatrace" />
   <img height="40" src="https://raw.githubusercontent.com/securebinary/icons/main/paloalto.png" alt="Palo Alto Networks" />
