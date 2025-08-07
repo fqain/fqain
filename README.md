@@ -8,25 +8,7 @@ I'm a diligent and sincere developer always eager to learn new technologies and 
 
 <br /><br />
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class SoftwareEngineerAndCybersecurityDataAnalyst:
-
-    def __init__(self):
-        self.name = "Fyaz Qadir Ahmed Ikram"
-        self.role = "Software Engineer & Cybersecurity Data Analyst"
-        self.language_spoken = ["en_UK"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = SoftwareEngineerAndCybersecurityDataAnalyst()
-me.say_hi()
-```
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=%F0%9F%91%8B+Welcome+to+my+Github+Page!;My+Name+is+Fyaz+Ikram+;I+love+to+Code+%3C%2F%3E+....;Develop+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+......;Teach+%F0%9F%93%9D+........;And+Inspire+new+ideas+%F0%9F%92%A1;I'm+very+passionate+about%3A;Cybersecurity+%E2%9A%A0%EF%B8%8E;DevSecOPS+%F0%9F%9B%A0%EF%B8%8F;Automation+%F0%9F%9A%80;Aviation+%E2%9C%88%EF%B8%8F" alt="Typing SVG" /></a>
 
 <br />
 
