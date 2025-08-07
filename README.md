@@ -16,40 +16,40 @@ I'm a diligent and sincere developer always eager to learn new technologies and 
 
 <p align="left">
   <!-- Programming/Dev stack (unchanged) -->
-  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" />
-  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" />
-  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" />
-  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" />
-  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#" />
-  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" />
-  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" />
-  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" />
-  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase" />
-  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" />
-  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" />
-  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" alt="Android" />
-  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP" />
-  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" alt="Unity" />
-  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png" alt="R" />
-  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" />
-  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" />
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" />
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" />
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" />
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" />
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#" />
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" />
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" />
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL" />
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase" />
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" />
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" />
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" alt="Android" />
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP" />
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" alt="Unity" />
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png" alt="R" />
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" />
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" />
 
   <!-- Cybersecurity / Network Tools -->
-  <img width="60" height="40" alt="image" src="https://github.com/user-attachments/assets/bb39c316-ac49-4b25-b864-050a3d7fb009" />
-  <img height="60" src="https://images.icon-icons.com/2699/PNG/512/solarwinds_logo_icon_169738.png" alt="SolarWinds" />
-  <img height="60" src="https://companieslogo.com/img/orig/PANW-4618d203.png?t=1720244493" alt="Palo Alto Networks" />
-  <img height="60" src="https://e1.pngegg.com/pngimages/342/752/png-clipart-macos-app-icons-wireshark.png" alt="Wireshark" />
-  <img height="60" src="https://www.myqnap.org/wp-content/uploads/nmap-logo.png" alt="Nmap" />
-  <img height="60" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit" />
-  <img height="60" src="https://e7.pngegg.com/pngimages/23/668/png-clipart-vm-logo-text-brand-logo-vmware-text-logo-thumbnail.png" alt="VMware" />
-  <img height="60" src="https://www.devprojournal.com/wp-content/uploads/2021/10/dynatrace-logo.png" alt="" />
-  <img height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIGLJUF2mKapkUggbszRihDaBg1b8bMphOjg&s" alt="" />
-  <img height="60" src="https://cdn3.iconfinder.com/data/icons/database-29/100/database_data_storage_db_file-01-512.png" alt="" />
-  <img height="60" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" alt="" />
-  <img height="60" src="https://cdn-public.softwarereviews.com/production/favicons/offerings/7899/original/channels4_profile-removebg-preview.png" alt="" />
-  <img height="60" src="https://cdn-public.softwarereviews.com/production/favicons/offerings/9448/original/256x256bb__40_-removebg-preview.png" alt="" />
-  <img height="60" src="https://cdn11.bigcommerce.com/s-vf6hqg41u5/images/stencil/1280x1280/products/1355152/2138733/RSA_Security-Logo.wine__05397.1728317407.png?c=2" alt="" />
-  <img height="60" src="https://avatars.slack-edge.com/2023-01-30/4714057317990_dc6950efe678de64e005_512.jpg" alt="" />
+  <img width="50" height="40" alt="image" src="https://github.com/user-attachments/assets/bb39c316-ac49-4b25-b864-050a3d7fb009" />
+  <img height="50" src="https://images.icon-icons.com/2699/PNG/512/solarwinds_logo_icon_169738.png" alt="SolarWinds" />
+  <img height="50" src="https://companieslogo.com/img/orig/PANW-4618d203.png?t=1720244493" alt="Palo Alto Networks" />
+  <img height="50" src="https://e1.pngegg.com/pngimages/342/752/png-clipart-macos-app-icons-wireshark.png" alt="Wireshark" />
+  <img height="50" src="https://www.myqnap.org/wp-content/uploads/nmap-logo.png" alt="Nmap" />
+  <img height="50" src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit" />
+  <img height="50" src="https://e7.pngegg.com/pngimages/23/668/png-clipart-vm-logo-text-brand-logo-vmware-text-logo-thumbnail.png" alt="VMware" />
+  <img height="50" src="https://www.devprojournal.com/wp-content/uploads/2021/10/dynatrace-logo.png" alt="" />
+  <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIGLJUF2mKapkUggbszRihDaBg1b8bMphOjg&s" alt="" />
+  <img height="50" src="https://cdn3.iconfinder.com/data/icons/database-29/100/database_data_storage_db_file-01-512.png" alt="" />
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" alt="" />
+  <img height="50" src="https://cdn-public.softwarereviews.com/production/favicons/offerings/7899/original/channels4_profile-removebg-preview.png" alt="" />
+  <img height="50" src="https://cdn-public.softwarereviews.com/production/favicons/offerings/9448/original/256x256bb__40_-removebg-preview.png" alt="" />
+  <img height="50" src="https://cdn11.bigcommerce.com/s-vf6hqg41u5/images/stencil/1280x1280/products/1355152/2138733/RSA_Security-Logo.wine__05397.1728317407.png?c=2" alt="" />
+  <img height="50" src="https://avatars.slack-edge.com/2023-01-30/4714057317990_dc6950efe678de64e005_512.jpg" alt="" />
   <img height="40" src="" alt="" />
   <img height="40" src="" alt="" />
   <img height="40" src="" alt="" />
@@ -76,9 +76,9 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FQAIN&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Fyaz's Github Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FQAIN&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Fyaz's Github Stats" height="150"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FQAIN&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FQAIN&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150"/>
 </p>
 
 ---
