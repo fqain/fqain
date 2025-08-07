@@ -79,8 +79,6 @@ Thanks for dropping by — feel free to explore my repositories or connect with 
 
 
 <br /><br />
-<br />
-
 
 ---
 
