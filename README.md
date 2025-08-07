@@ -50,8 +50,8 @@ I'm a diligent and sincere developer always eager to learn new technologies and 
   <img height="50" src="https://cdn-public.softwarereviews.com/production/favicons/offerings/9448/original/256x256bb__40_-removebg-preview.png" alt="" />
   <img height="50" src="https://cdn11.bigcommerce.com/s-vf6hqg41u5/images/stencil/1280x1280/products/1355152/2138733/RSA_Security-Logo.wine__05397.1728317407.png?c=2" alt="" />
   <img height="50" src="https://avatars.slack-edge.com/2023-01-30/4714057317990_dc6950efe678de64e005_512.jpg" alt="" />
-  <img height="40" src="" alt="" />
-  <img height="40" src="" alt="" />
+  <img height="40" src="https://wazuh.com/uploads/2016/05/ossec-post-icon.png" alt="" />
+  <img height="40" src="https://www.automat-it.com/wp-content/uploads/2024/03/Algosec_cs.png" alt="" />
   <img height="40" src="" alt="" />
   <img height="40" src="" alt="" />
 </p>
