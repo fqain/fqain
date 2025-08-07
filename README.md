@@ -8,13 +8,8 @@ I'm a diligent and sincere developer always eager to learn new technologies and 
 
 <br /><br />
 
-<!-- Typing Animation Block -->
-<div style="background-color:#0d1117; color:#c9d1d9; font-family:monospace; padding:1em; border-radius:10px; max-width:800px; overflow:auto;">
-  <pre id="typing-animation" style="white-space:pre-wrap; word-wrap:break-word;"><code></code></pre>
-</div>
-
-<script>
-  const code = `#!/usr/bin/python
+```python
+#!/usr/bin/python
 # -*- coding: utf-8 -*-
 
 
@@ -30,25 +25,12 @@ class SoftwareEngineerAndCybersecurityDataAnalyst:
 
 
 me = SoftwareEngineerAndCybersecurityDataAnalyst()
-me.say_hi()`;
-
-  const pre = document.getElementById("typing-animation").querySelector("code");
-  let i = 0;
-
-  function typeCode() {
-    if (i < code.length) {
-      pre.textContent += code.charAt(i);
-      i++;
-      setTimeout(typeCode, 15); // typing speed
-    }
-  }
-
-  typeCode();
-</script>
+me.say_hi()
+```
 
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="250" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
 ### 🛠️ Languages & Tools  
 
@@ -72,7 +54,11 @@ me.say_hi()`;
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" />
 </p>
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br />
+<br />
+<br />
+<br />
+<br />
 
 ---
 
@@ -80,7 +66,6 @@ me.say_hi()`;
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈  
 <a href="https://www.buymeacoffee.com/fyazikram8Y" target="_blank">
-<br />
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
 </a>
 
