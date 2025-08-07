@@ -68,21 +68,22 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td><a href="https://github.com/FQAIN/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=FQAIN&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Fyaz's Github Stats" /></a></td>
-    <td><a href="https://github.com/FQAIN/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FQAIN&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/></a></td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=FQAIN&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Fyaz's Github Stats" height="160"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FQAIN&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160"/>
+</p>
 
 ---
 
 ### 🔍 Top Repositories
 
-<a href="https://github.com/FQAIN/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FQAIN&repo=GiddyGoat.CodeIgniter&theme=dark" />
-</a>
-
-<a href="https://github.com/FQAIN/FQAIN.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FQAIN&repo=SOAM-Sullimar-Academy-of-Music-Enigma-Crackers&theme=dark" />
-</a>
+<p align="left">
+  <a href="https://github.com/FQAIN/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FQAIN&repo=GiddyGoat.CodeIgniter&theme=dark" height="130"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/FQAIN/FQAIN.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FQAIN&repo=SOAM-Sullimar-Academy-of-Music-Enigma-Crackers&theme=dark" height="130"/>
+  </a>
+</p>
