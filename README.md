@@ -111,3 +111,30 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FQAIN&repo=SOAM-Sullimar-Academy-of-Music-Enigma-Crackers&theme=dark" height="130"/>
   </a>
 </p>
+
+
+<!-- Visitor Count -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=FyazIkram&label=Profile%20Views&color=0e75b6&style=flat" alt="FyazIkram" />
+</p>
+
+<!-- GitHub Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FyazIkram&theme=algolia&margin-w=15&no-frame=true" />
+</p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FyazIkram&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
+</p>
+
+<!-- Top Skills -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp,linux,git,aws,docker,nmap,splunk" />
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FyazIkram&theme=algolia&hide_border=true" alt="GitHub Streak" />
+</p>
+
