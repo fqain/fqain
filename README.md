@@ -37,7 +37,7 @@ I'm a diligent and sincere developer always eager to learn new technologies and 
   <!-- Cybersecurity / Network Tools -->
   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/bb39c316-ac49-4b25-b864-050a3d7fb009" />
   <img height="40" src="https://raw.githubusercontent.com/securebinary/icons/main/solarwinds.png" alt="SolarWinds" />
-  <img height="40" src="https://raw.githubusercontent.com/securebinary/icons/main/paloalto.png" alt="Palo Alto Networks" />
+  <img height="40" src="[https://raw.githubusercontent.com/securebinary/icons/main/paloalto.png](https://cdn.brandfetch.io/idfPYio-v-/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1668080522642)" alt="Palo Alto Networks" />
   <img height="40" src="https://raw.githubusercontent.com/securebinary/icons/main/wireshark.png" alt="Wireshark" />
   <img height="40" src="https://raw.githubusercontent.com/securebinary/icons/main/nmap.png" alt="Nmap" />
   <img height="40" src="https://raw.githubusercontent.com/securebinary/icons/main/metasploit.png" alt="Metasploit" />
