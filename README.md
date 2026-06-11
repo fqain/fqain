@@ -81,14 +81,13 @@ Thanks for dropping by — feel free to explore my repositories or connect with 
 
 
 
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FQAIN&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&bg_color=0D1117" alt="Fyaz's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FQAIN&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FQAIN&show_icons=true&include_all_commits=true&theme=default&hide_border=true&bg_color=FFFFFF" alt="Fyaz's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FQAIN&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF" alt="Top Languages" height="160"/>
 </p>
 
 ---
@@ -96,7 +95,7 @@ Thanks for dropping by — feel free to explore my repositories or connect with 
 ### 🔥 GitHub Streak
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=FQAIN&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=FQAIN&theme=default&hide_border=true&background=FFFFFF" alt="GitHub Streak Stats"/>
 </p>
 
 ---
@@ -104,7 +103,7 @@ Thanks for dropping by — feel free to explore my repositories or connect with 
 ### 🛠️ Top Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp,linux,git,aws,docker,nmap,splunk&theme=dark&perline=6" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp,linux,git,aws,docker,nmap,splunk&theme=light&perline=6" alt="Skills"/>
 </p>
 
 ---
@@ -113,10 +112,10 @@ Thanks for dropping by — feel free to explore my repositories or connect with 
 
 <p align="left">
   <a href="https://github.com/FQAIN/GiddyGoat.CodeIgniter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FQAIN&repo=GiddyGoat.CodeIgniter&theme=algolia&hide_border=true&bg_color=0D1117" height="130" alt="GiddyGoat Repo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FQAIN&repo=GiddyGoat.CodeIgniter&theme=default&hide_border=true&bg_color=FFFFFF" height="130" alt="GiddyGoat Repo"/>
   </a>
   <a href="https://github.com/FQAIN/SOAM-Sullimar-Academy-of-Music-Enigma-Crackers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FQAIN&repo=SOAM-Sullimar-Academy-of-Music-Enigma-Crackers&theme=algolia&hide_border=true&bg_color=0D1117" height="130" alt="SOAM Repo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FQAIN&repo=SOAM-Sullimar-Academy-of-Music-Enigma-Crackers&theme=default&hide_border=true&bg_color=FFFFFF" height="130" alt="SOAM Repo"/>
   </a>
 </p>
 
@@ -125,13 +124,15 @@ Thanks for dropping by — feel free to explore my repositories or connect with 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=FQAIN&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
+
 ---
 
-### ☕ Support Me  
+### ☕ Support Me
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈  
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
 <a href="https://www.buymeacoffee.com/fyazikram8Y" target="_blank">
-<br />
+  <br />
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
 </a>
 
