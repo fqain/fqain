@@ -10,6 +10,7 @@ I'm a **graduate of the BSc in Internet Systems Development** at TUS, with a str
 
 - 🧩 **Compliance** (e.g., ISO 27001, NIST frameworks, GDPR)
 - 🌐 **Network Security** (firewall management, threat mitigation, secure architecture)
+- ☁️ **Cloud Security** (secure cloud architecture, identity & access management, configuration hardening, data protection)
 - 🧠 **Cybersecurity Consulting** (risk assessment, advisory services, technical reporting)
 - 🔐 **Cryptography** (PKI, encryption protocols, digital signatures)
 
@@ -20,7 +21,7 @@ Through this journey, I've developed key technical and professional skills, incl
 - 🛠️ **Tool Proficiency**: Experienced with tools like Splunk, Wireshark, Nmap, Palo Alto, SolarWinds, Dynatrace, and Metasploit.
 - 💬 **Communication**: Able to translate technical risks into actionable insights for both technical and non-technical stakeholders.
 
-I’m a curious and motivated technologist, always exploring the latest innovations in **cyber defense**, **software engineering**, and **data-driven solutions**. I build with purpose, learn with intensity, and aim to contribute meaningfully to every project I take on.
+I'm a curious and motivated technologist, always exploring the latest innovations in **cyber defense**, **software engineering**, and **data-driven solutions**. I build with purpose, learn with intensity, and aim to contribute meaningfully to every project I take on.
 
 Thanks for dropping by — feel free to explore my repositories or connect with me.
 
@@ -28,7 +29,7 @@ Thanks for dropping by — feel free to explore my repositories or connect with 
 
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="350" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="280" height="245" />
 
 ### 🛠️ Languages & Tools  
 
