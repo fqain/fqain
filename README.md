@@ -103,7 +103,7 @@ Thanks for dropping by — feel free to explore my repositories or connect with 
 ### 🛠️ Top Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,cpp,bash,linux,git,github,docker,kubernetes,aws,gcp,azure,terraform,nginx,nmap,splunk,vscode,figma&theme=light&perline=6" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,cpp,bash,linux,git,github,docker,kubernetes,aws,gcp,azure,terraform,nginx,nmap,splunk,vscode,figma,firebase,react,nodejs,mongodb&theme=light&perline=6" alt="Skills"/>
 </p>
 
 ---
