@@ -85,53 +85,45 @@ Thanks for dropping by — feel free to explore my repositories or connect with 
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=FQAIN&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&bg_color=0D1117" alt="Fyaz's GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FQAIN&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117" alt="Top Languages" height="160"/>
-</div>
+</p>
 
 ---
 
 ### 🔥 GitHub Streak
 
-<div align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=FQAIN&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
-</div>
-
----
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FQAIN&theme=algolia&no-frame=true&no-bg=false&margin-w=15&margin-b=15&column=4&row=2" alt="GitHub Trophies"/>
-</div>
+</p>
 
 ---
 
 ### 🛠️ Top Skills & Tools
 
-<div align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp,linux,git,aws,docker,nmap,splunk&theme=dark&perline=6" alt="Skills"/>
-</div>
+</p>
 
 ---
 
 ### 🔍 Featured Repositories
 
-<div align="center">
+<p align="left">
   <a href="https://github.com/FQAIN/GiddyGoat.CodeIgniter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FQAIN&repo=GiddyGoat.CodeIgniter&theme=algolia&hide_border=true&bg_color=0D1117" height="130" alt="GiddyGoat Repo"/>
   </a>
   <a href="https://github.com/FQAIN/SOAM-Sullimar-Academy-of-Music-Enigma-Crackers">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FQAIN&repo=SOAM-Sullimar-Academy-of-Music-Enigma-Crackers&theme=algolia&hide_border=true&bg_color=0D1117" height="130" alt="SOAM Repo"/>
   </a>
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=FQAIN&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-</div>
+</p>
 ---
 
 ### ☕ Support Me  
